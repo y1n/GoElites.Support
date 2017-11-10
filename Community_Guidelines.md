@@ -27,8 +27,9 @@ Read through these guidelines carefully before you go over to the Forums. In cas
 - No revealing of private information of fellow community members unless given an explicit permission from that member or from Moderator or higher.
 - Staff members are allowed to choose the punishment measures under their own discretion considering the severity of the violation.
 
-**ChatBox Rules** (*all General Rules apply*)
+**ChatBox Rules** 
 
+- All General Rules apply.
 - No drama.
 - No abusive behaviour even if done "for fun".
 - Punishments range from 24 hours to permanent suspension from ChatBox.
