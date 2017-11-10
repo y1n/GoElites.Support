@@ -25,7 +25,7 @@ Read through these guidelines carefully before you go over to the Forums. In cas
 - No donation links.
 - No quoting of rule violating content.
 - No revealing of private information of fellow community members unless given an explicit permission from that member or from Moderator or higher.
-- Staff members are allowed to choose the punishment measures under their own discretion considering the severity of the violation.
+- Staff members are allowed to choose the punishment measures at their own discretion considering the severity of the violation.
 
 **ChatBox Rules** 
 
