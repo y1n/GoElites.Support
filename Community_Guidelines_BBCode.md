@@ -7,6 +7,7 @@ Read through these guidelines carefully before you go over to the Forums. In cas
 [*]No disrespectful attitude towards fellow community members.[/*]
 [*]No disrespectful attitude towards GoElites Staff.[/*]
 [*]No multiple accounts allowed.[/*]
+[*]No account sharing[/*]
 [*]No other methods of ban evasion.[/*]
 [*]No illegal, filesharing, cracking, hacking activity.[/*]
 [*]No scamming.[/*]
